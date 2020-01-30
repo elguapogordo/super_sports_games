@@ -65,4 +65,5 @@ class GamesTest < Minitest::Test
 
     assert_equal expected, games.summary
   end
+
 end
